@@ -1,0 +1,15 @@
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W5/Assignment2/Assignment2/obj/Debug/net7.0/Assignment2.csproj.AssemblyReference.cache
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W5/Assignment2/Assignment2/obj/Debug/net7.0/Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W5/Assignment2/Assignment2/obj/Debug/net7.0/Assignment2.AssemblyInfoInputs.cache
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W5/Assignment2/Assignment2/obj/Debug/net7.0/Assignment2.AssemblyInfo.cs
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W5/Assignment2/Assignment2/obj/Debug/net7.0/Assignment2.csproj.CoreCompileInputs.cache
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W5/Assignment2/Assignment2/bin/Debug/net7.0/Assignment2
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W5/Assignment2/Assignment2/bin/Debug/net7.0/Assignment2.deps.json
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W5/Assignment2/Assignment2/bin/Debug/net7.0/Assignment2.runtimeconfig.json
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W5/Assignment2/Assignment2/bin/Debug/net7.0/Assignment2.dll
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W5/Assignment2/Assignment2/bin/Debug/net7.0/Assignment2.pdb
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W5/Assignment2/Assignment2/obj/Debug/net7.0/Assignment2.dll
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W5/Assignment2/Assignment2/obj/Debug/net7.0/refint/Assignment2.dll
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W5/Assignment2/Assignment2/obj/Debug/net7.0/Assignment2.pdb
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W5/Assignment2/Assignment2/obj/Debug/net7.0/Assignment2.genruntimeconfig.cache
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W5/Assignment2/Assignment2/obj/Debug/net7.0/ref/Assignment2.dll
